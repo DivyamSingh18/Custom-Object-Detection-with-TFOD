@@ -1,7 +1,7 @@
 # Custom-Object-Detection-with-TFOD
 (TFOD = Tensorflow Object Detection)
 
-I was able to understand object detection very efficiently from Sir Krish Naik's Youtube Channel. 
+Thanx to Sir Krish Naik, I was able to understand object detection very efficiently from his Youtube Channel. 
 <hr> 
 •	Google Colab Code by Krish Naik: https://colab.research.google.com/drive/19ycUy5qIZKCO8tKy37f4zkUiHzgKs05I?usp=sharing <br>
 •	Yt video link: https://youtu.be/XoMiveY_1Z4 <br>
